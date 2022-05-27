@@ -1,0 +1,57 @@
+.container {
+    width: 30%;
+    height: 40%;
+    display: block;
+    align-items: center;
+    position: absolute;
+    top: 10%;
+    left: 35%;
+}
+
+body {
+    background-color: #F1FFFA;
+}
+
+.container-user {
+    display: block;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-user-icon {
+    min-width: 300px;
+
+}
+
+.container-data-user {
+    text-align: center;
+    min-width: 300px;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.name-user {
+    text-align: center;
+    padding: 8px;
+}
+
+.date-user {
+    color: gray;
+    font-family: cursive;
+}
+
+.line {
+    border-top: 40px;
+    border-color: black;
+    width: 80vw;
+    display: block;
+}
+
+.hr-line {
+    height: 2px;
+    width: 90%;
+    border-width: 0;
+    color: red;
+    background-color: red
+}

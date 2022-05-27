@@ -1,0 +1,14 @@
+.container-navbar {
+    padding-left: 30px;
+    margin-top: 20px;
+}
+
+h1 {
+    display: inline;
+    padding-left: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.icon-back{
+    padding-top: 5px;
+    
+}
